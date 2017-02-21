@@ -1,0 +1,60 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion buildConstats.compileSdkVersion
+    buildToolsVersion buildConstats.buildToolsVersion
+
+    defaultConfig {
+        applicationId "com.tml.demo"
+        minSdkVersion buildConstats.minSdkVersion
+        targetSdkVersion buildConstats.targetSdkVersion
+        versionCode buildConstats.versionCode
+        versionName buildConstats.versionName
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+
+    packagingOptions {
+        exclude 'LICENSE.txt'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+android {
+    defaultConfig {
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile supportDependencies.appcompat
+    compile supportDependencies.designSupport
+    compile supportDependencies.annotations
+    compile supportDependencies.cardView
+    compile supportDependencies.recyclerview
+    //Third party dependencies
+    compile thirdpartyDependencies.butterknife
+    compile thirdpartyDependencies.datetimepicker
+    compile thirdpartyDependencies.fab
+    //Testing dependencies
+    androidTestCompile(testDependencies.testRunner) {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    }
+    androidTestCompile(testDependencies.testRules) {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    }
+    androidTestCompile(testDependencies.espressoCore) {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    }
+    compile project(':demoframwork')
+}

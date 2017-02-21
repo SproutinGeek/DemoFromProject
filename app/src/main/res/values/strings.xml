@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="speech_prompt">Speak</string>
+    <string name="read_aloud">Read out</string>
+    <string name="please_wait">Please wait...!</string>
+    <string name="please_try">Please try later.</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="read_aloud_on">Reading text....</string>
+    <string name="exception_message_generic">Some Error happend</string>
+    <string name="exception_message_xml_tag_parsing">XML Error</string>
+    <string name="exception_message_xml_file_not_found">File not found</string>
+</resources>

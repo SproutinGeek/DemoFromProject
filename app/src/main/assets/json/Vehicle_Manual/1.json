@@ -1,0 +1,157 @@
+{
+  "ShortDescription": "Famed mathematician Alan Turing proved in his 1936 paper, On Computable Numbers, that a universal algorithmic method of determining truth in math cannot exist.",
+  "PrimaryContentCategory": "Safety",
+  "Video": true,
+  "Keywords": "Seat Belt, Belt, Car Belt, Car Seat Belt, Restraint system, Safety",
+  "Title": [
+    {
+      "Introduction": "Alan Turing was born on June 23, 1912, in London. In his seminal 1936 paper, he proved that there cannot exist any universal algorithmic method of determining truth in mathematics. ",
+      "Title-Value": "About",
+      "Sub-Title": [
+        {
+          "Image": {
+            "Description": "He participated in a few sports, such as rowing, but he loved running. Turing had a bit of a smelly trainers aspect to his personality, Hodges said. To work it into his day, he often ran to the places he needed to go. He used to run the 10 miles between the two places where he did most of his work, the National Physical Laboratory and the electronics building on Dollis Hill, beating colleagues who took public transportation to the office.",
+            "Image-Path": "COMBI-SWITCH-RHS-D1.jpg",
+            "Warning": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "Image-Caption": "Turing's private notes on the theory of relativity showed a degree-level appreciation, yet he was almost prevented from taking the School Certificate lest he shame the school with failure. But it appears that the stimulus for effective communication and competition came only from contact with another very able youth, a year ahead of him at Sherborne, to whom Alan Turing found himself powerfully attracted in 1928. He, Christopher Morcom, gave Turing a vital period of intellectual companionship — which ended with Morcom's sudden death in February 1930.",
+            "MaintenanceTips": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          },
+          "Sub-title-value": "He was an Olympic-level runner"
+        },
+        {
+          "Image": {
+            "Description": "He was very casual in those days, and thought very scruffy. Had he lived a few decades later, he would have worn t-shirts and jeans every day, Hodges added. It wasn’t uncommon to see Turing dressed rather shabbily, with bitten nails and without a tie, he said. With his youthful face, he was often mistaken for an undergraduate even in his 30s.",
+            "Image-Path": "COMBI-SWITCH-RHS-D1.jpg",
+            "Warning": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "Image-Caption": "This question led him deeper into the area of twentieth century physics, first helped by A. S. Eddington's book The Nature of the Physical World, wondering whether quantum-mechanical theory affected the traditional problem of mind and matter.",
+            "MaintenanceTips": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          },
+          "Sub-title-value": "He embodied some values of the Hippie movement"
+        },
+        {
+          "Image": {
+            "Description": "In April 1936 he showed his result to Newman; but at the same moment the parallel conclusion of the American logician Alonzo Church became known, and Turing was robbed of the full reward for his originality. His paper, On Computable Numbers with an application to the Entscheidungsproblem, had to refer to Church's work, and was delayed until August 1936. However it was seen at the time that Turing's approach was original and different; Church relied upon an assumption internal to mathematics, rather than appealing to operations that could actually be done by real things or people in the physical world. Subsequently, the concept of the Turing machine has become the foundation of the modern theory of computation and computability.",
+            "Image-Path": "COMBI-SWITCH-RHS-D1.jpg",
+            "Warning": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "Image-Caption": "Turing's progress seemed assured, A distinguished degree in 1934 followed by a Fellowship of King's College in 1935 and a Smith's Prize in 1936 for work on probability theory, and he might then have seemed on course for a successful career as a mildly eccentric King's don engaged in pure mathematics. His uniqueness of mind, however, drove him in a direction none could have foreseen.",
+            "MaintenanceTips": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          },
+          "Sub-title-value": "The Turing machine"
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        }
+      ]
+    },
+    {
+      "Sub-Title": [
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        }
+      ]
+    },
+    {
+      "Sub-Title": [
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        }
+      ]
+    },
+    {
+      "Sub-Title": [
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        },
+        {
+          "Image": true
+        }
+      ]
+    }
+  ],
+  "ContentID": "1",
+  "Feature": "Alan Turing"
+}
